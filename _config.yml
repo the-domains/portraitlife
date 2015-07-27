@@ -15,12 +15,17 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#3e3549'
+    - '#c6b9ac'
+    - '#676252'
+    - '#926c69'
+    - '#f1edd7'
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose:
   - name: follow
-    item: null
+    item: 30b4d5e9-fca7-44f7-8099-b4613560229f
     url: null
