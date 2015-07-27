@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jul 2015 20:04:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Portraitlife]]></title>
+            <description><![CDATA[<article><h1>Welcome to Portraitlife</h1><img src="http://portraitlife.com/blog/wp-content/uploads/2013/09/lindsey-.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-portraitlife/index.html</link>
+            <guid isPermaLink="false">30b4d5e9-fca7-44f7-8099-b4613560229f</guid>
+            <pubDate>Mon, 27 Jul 2015 20:04:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
